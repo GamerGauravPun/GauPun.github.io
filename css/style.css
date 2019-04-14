@@ -1,4 +1,11 @@
 ﻿body
 {
+    margin: 0;
+    padding: 0;
+    font-family: Century;
+}
 
+header {
+    background-image: url(..\images\background\848.jpg);
+    height: 100vh;
 }
