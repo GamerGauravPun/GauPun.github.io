@@ -10,3 +10,12 @@ header {
     background-size: cover;
     background-position: center;
 }
+
+ul {
+    float: right;
+    list-style-type: none;
+}
+
+ul li{
+    display: inline-block;
+}
