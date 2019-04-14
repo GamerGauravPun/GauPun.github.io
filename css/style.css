@@ -4,11 +4,18 @@
     font-family: Century;
 }
 
-header {
-    background-image: url(../848.jpg);
-    height: 100vh;
-    background-size: cover;
-    background-position: center;
+//header {
+    //background-image: url(../848.jpg);
+    //height: 100vh;
+    //background-size: cover;
+    //background-position: center;
+//}
+
+body {
+    background-image: url(../images/tenor.gif);
+    height: auto;
+    background-size: auto;
+    background-position : bottom;
 }
 
 ul {
