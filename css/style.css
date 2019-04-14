@@ -14,6 +14,8 @@ header {
 ul {
     float: right;
     list-style-type: none;
+    margin-top: 25px;
+    margin-right: 10px;
 }
 
 ul li{
@@ -25,4 +27,16 @@ ul li a{
     color: #7d0096;
     padding: 5px 20px;
     border: 1px solid #ff00fa;
+    transition: 0.5s ease;
+}
+
+ul li a:hover{
+    background-color: #ff00fa;
+    color: #000;
+}
+
+.logo img {
+    float: left;
+    width: 150px;
+    height: auto;
 }
